@@ -31,6 +31,12 @@
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=AyushKhaitan1&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AyushKhaitan1&theme=one_dark_pro&hide_border=false)<br/>
@@ -43,11 +49,6 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/AyushKhaitan1/AyushKhaitan1/raw/output/github-contribution-grid-snake.svg)
-
----
 
 ## ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
