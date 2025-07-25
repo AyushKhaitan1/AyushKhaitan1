@@ -45,7 +45,7 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/AyushKhaitan1/AyushKhaitan1/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/AyushKhaitan1/AyushKhaitan1/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
