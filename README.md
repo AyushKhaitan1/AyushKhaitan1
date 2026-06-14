@@ -16,11 +16,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AyushKhaitan1&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ## ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
