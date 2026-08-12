@@ -1,26 +1,227 @@
-<h1 align="center">Hi 👋, I'm Ayush Khaitan</h1>
-<h3 align="center">Full Stack Developer | B.Tech CSE '27</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkhaitan1&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkhaitan1" /> </p>
+# 👋 Hi, I'm Ayush Khaitan
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushkhaitan1" alt="ayushkhaitan1" /></a> </p>
+### Full Stack Developer | AI Enthusiast | B.Tech CSE '27
 
-- 🔭 I’m currently working on [The AI Signal](https://github.com/AyushKhaitan1/The-Ai-Signal)
-
-- 🌱 I’m currently learning **DSA, System Design, AI Agents, LLM Applications & Cloud**
-
-- 💬 Ask me about **MongoDB, Express.js, React, Node.js, TypeScript, REST APIs, PostgreSQL, Prisma & AI applications**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush-khaitan-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-khaitan-" height="30" width="40" /></a>
+<p>
+  <a href="https://akfolio-new.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ayush-khaitan-/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AyushKhaitan1">
+    <img src="https://img.shields.io/badge/GitHub-AyushKhaitan1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=AyushKhaitan1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkhaitan1&show_icons=true&locale=en&layout=compact" alt="ayushkhaitan1" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushkhaitan1&show_icons=true&locale=en" alt="ayushkhaitan1" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkhaitan1&" alt="ayushkhaitan1" /></p>
+## 🚀 About Me
+
+I'm a **B.Tech Computer Science Engineering student** focused on building practical, scalable web applications and AI-powered products.
+
+* 🔭 Currently working on **The AI Signal**
+* 💻 Building with **React, Next.js, Node.js, TypeScript & PostgreSQL**
+* 🤖 Exploring **AI Agents, LLM applications & AI-assisted development**
+* 🧠 Strengthening **Data Structures & Algorithms and System Design**
+* 🛠️ Interested in **Full Stack Engineering, Backend Systems & AI**
+* 🤝 Open to collaborating on interesting **Full Stack, AI & Open Source projects**
+* 📍 India
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,sql,html,css" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma" />
+</p>
+
+### Tools, Cloud & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,postman,vercel" />
+</p>
+
+### AI / Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+### 💰 FinSight — Personal Finance & Investment Tracker
+
+A full-stack personal finance and investment platform with AI-powered capabilities.
+
+**Highlights**
+
+* 📊 Personal finance & investment tracking
+* 🤖 AI-powered financial features
+* 🧾 OCR-based receipt processing with Tesseract.js
+* 📈 Portfolio analytics
+* 🔐 Full-stack authentication and data management
+
+<p>
+  <a href="https://github.com/AyushKhaitan1/FinSight">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🎓 CampusAtlas — College Discovery Platform
+
+A full-stack platform designed to help students discover, compare and explore colleges.
+
+**Highlights**
+
+* 🔎 College discovery and search
+* 📊 College comparison
+* 💬 Community/forum functionality
+* 📈 Placement and college information
+* 🌐 Full-stack web application
+
+<p>
+  <a href="https://github.com/AyushKhaitan1/CampusAtlas">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🤖 AI Mental Healthcare Chatbot
+
+An AI-powered conversational application designed to provide supportive interactions through a web interface.
+
+<p>
+  <a href="https://github.com/AyushKhaitan1/AI-Mental-healthcare-Chatbot">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ⚡ The AI Signal
+
+Currently contributing to an AI-focused product where I work on modern web development and product engineering.
+
+<p>
+  <a href="https://github.com/AyushKhaitan1/The-Ai-Signal">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/AyushKhaitan1">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AyushKhaitan1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" alt="Ayush's GitHub Stats"/>
+</a>
+
+<a href="https://github.com/AyushKhaitan1">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKhaitan1&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Ayush's Top Languages"/>
+</a>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushKhaitan1&theme=transparent&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Ayush's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AyushKhaitan1\&theme=github-compact\&hide_border=true\&area=true)](https://github.com/AyushKhaitan1)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AyushKhaitan1&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📌 More Projects
+
+<p align="center">
+
+<a href="https://github.com/AyushKhaitan1?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ayush-khaitan-/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ayushkhaitan2004@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://akfolio-new.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build. Learn. Ship. Repeat.
+
+</div>
