@@ -131,19 +131,7 @@ I'm a **B.Tech Computer Science Engineering student** focused on building practi
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AyushKhaitan1&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent" alt="Ayush's GitHub Statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKhaitan1&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Ayush's Top Languages"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
+# 📈 GitHub Activity
 
 <div align="center">
 
@@ -157,51 +145,7 @@ I'm a **B.Tech Computer Science Engineering student** focused on building practi
 
 ---
 
-# 📌 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushKhaitan1&theme=github" alt="GitHub Profile Summary"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushKhaitan1&theme=github" alt="Repositories per Language"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushKhaitan1&theme=github" alt="Most Commit Language"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushKhaitan1&theme=github" alt="GitHub Statistics"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AyushKhaitan1&theme=flat&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10" alt="GitHub Achievements"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushKhaitan1/AyushKhaitan1/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushKhaitan1/AyushKhaitan1/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AyushKhaitan1/AyushKhaitan1/output/github-snake.svg">
-</picture>
-
-</div>
-
----
-
-# 🤝 Let's Connect
+# 🌐 Find Me Online
 
 <div align="center">
 
@@ -215,10 +159,6 @@ I'm a **B.Tech Computer Science Engineering student** focused on building practi
 
 <a href="mailto:ayushkhaitan2004@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AyushKhaitan1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
