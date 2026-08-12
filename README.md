@@ -135,21 +135,9 @@ I'm a **B.Tech Computer Science Engineering student** focused on building practi
 
 <div align="center">
 
-<a href="https://github.com/AyushKhaitan1">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=AyushKhaitan1&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent" alt="Ayush's GitHub Statistics"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=AyushKhaitan1&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent" alt="Ayush's GitHub Statistics"/>
 
-<a href="https://github.com/AyushKhaitan1">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKhaitan1&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Ayush's Top Languages"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushKhaitan1&theme=github" alt="GitHub Profile Summary"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKhaitan1&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Ayush's Top Languages"/>
 
 </div>
 
@@ -159,17 +147,11 @@ I'm a **B.Tech Computer Science Engineering student** focused on building practi
 
 <div align="center">
 
+<a href="https://github.com/AyushKhaitan1">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushKhaitan1&theme=github-compact&hide_border=true&area=true" alt="Ayush's GitHub Contribution Activity Graph"/>
 
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushKhaitan1&theme=transparent&hide_border=true" alt="Ayush's GitHub Contribution Streak"/>
+</a>
 
 </div>
 
@@ -179,17 +161,17 @@ I'm a **B.Tech Computer Science Engineering student** focused on building practi
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AyushKhaitan1&theme=github" alt="GitHub Profile Summary"/>
+
+<br/><br/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AyushKhaitan1&theme=github" alt="Repositories per Language"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AyushKhaitan1&theme=github" alt="Most Commit Language"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushKhaitan1&theme=github" alt="GitHub Statistics Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AyushKhaitan1&theme=github" alt="GitHub Statistics"/>
 
 </div>
 
@@ -205,34 +187,17 @@ I'm a **B.Tech Computer Science Engineering student** focused on building practi
 
 ---
 
-# 🌐 Development Focus
+# 🐍 Contribution Snake
 
 <div align="center">
 
-| Area | Focus |
-| :--- | :--- |
-| 💻 **Full Stack** | React, Next.js, Node.js, Express |
-| 🗄️ **Backend & Data** | REST APIs, PostgreSQL, MongoDB, Prisma |
-| 🤖 **AI Engineering** | AI Applications, LLMs, AI Agents |
-| ☁️ **Cloud & DevOps** | AWS, GCP, Docker, Vercel |
-| 🧠 **Core CS** | DSA, OOP, DBMS, System Design |
-| 🔧 **Engineering** | Git, GitHub, API Development, Debugging |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AyushKhaitan1/AyushKhaitan1/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AyushKhaitan1/AyushKhaitan1/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AyushKhaitan1/AyushKhaitan1/output/github-snake.svg">
+</picture>
 
 </div>
-
----
-
-# 🌟 Open Source & Engineering
-
-I enjoy building software where I can:
-
-- 🧩 Solve real-world engineering problems
-- ⚙️ Design and build full-stack systems
-- 🤖 Integrate AI into practical applications
-- 🔌 Build and consume REST APIs
-- 🗄️ Design database-backed applications
-- 🔍 Debug and improve existing systems
-- 🌐 Explore and contribute to open-source technologies
 
 ---
 
