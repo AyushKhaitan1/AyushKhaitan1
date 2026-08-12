@@ -2,185 +2,181 @@
 
 # 👋 Hi, I'm Ayush Khaitan
 
-### Full Stack Developer | AI Enthusiast | B.Tech CSE '27
+### Full Stack Developer • AI Enthusiast • B.Tech CSE '27
 
 <p>
   <a href="https://akfolio-new.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/ayush-khaitan-/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/AyushKhaitan1">
-    <img src="https://img.shields.io/badge/GitHub-AyushKhaitan1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="mailto:ayushkhaitan2004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=AyushKhaitan1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=AyushKhaitan1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 I'm a **B.Tech Computer Science Engineering student** focused on building practical, scalable web applications and AI-powered products.
 
 * 🔭 Currently working on **The AI Signal**
-* 💻 Building with **React, Next.js, Node.js, TypeScript & PostgreSQL**
+* 💻 Full Stack Development with **React, Next.js, Node.js & TypeScript**
+* 🗄️ Backend & databases with **Express.js, PostgreSQL, MongoDB & Prisma**
 * 🤖 Exploring **AI Agents, LLM applications & AI-assisted development**
 * 🧠 Strengthening **Data Structures & Algorithms and System Design**
-* 🛠️ Interested in **Full Stack Engineering, Backend Systems & AI**
-* 🤝 Open to collaborating on interesting **Full Stack, AI & Open Source projects**
-* 📍 India
+* 🚀 Interested in **Software Engineering, Backend Systems, Full Stack & AI**
+* 🤝 Open to collaborating on **Full Stack, AI & Open Source projects**
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp,sql,html,css" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css" />
 </p>
 
-### Backend & APIs
+### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Databases
+### Databases & ORM
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma" />
 </p>
 
-### Tools, Cloud & Development
+### Cloud, Tools & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,postman,vercel" />
-</p>
-
-### AI / Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vercel,postman" />
 </p>
 
 ---
 
-## 💼 Featured Projects
+# 🚀 Featured Projects
 
-### 💰 FinSight — Personal Finance & Investment Tracker
+## 💰 FinSight
 
-A full-stack personal finance and investment platform with AI-powered capabilities.
+**Personal Finance & Investment Tracker**
+
+A full-stack financial platform focused on personal finance and investment tracking.
+
+**Built with:** React • Node.js • Express • MongoDB • AI • Tesseract.js
 
 **Highlights**
 
 * 📊 Personal finance & investment tracking
-* 🤖 AI-powered financial features
-* 🧾 OCR-based receipt processing with Tesseract.js
+* 🧾 OCR-based receipt processing
+* 🤖 AI-powered financial functionality
 * 📈 Portfolio analytics
-* 🔐 Full-stack authentication and data management
+* 🔐 Authentication & data management
 
 <p>
-  <a href="https://github.com/AyushKhaitan1/FinSight">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://github.com/AyushKhaitan1/FinSight">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-### 🎓 CampusAtlas — College Discovery Platform
+## 🎓 CampusAtlas
+
+**College Discovery Platform**
 
 A full-stack platform designed to help students discover, compare and explore colleges.
 
+**Built with:** MongoDB • Express.js • React • Node.js
+
 **Highlights**
 
-* 🔎 College discovery and search
+* 🔎 College discovery
 * 📊 College comparison
+* 📈 Placement information
 * 💬 Community/forum functionality
-* 📈 Placement and college information
-* 🌐 Full-stack web application
+* 🔐 Full-stack user functionality
 
 <p>
-  <a href="https://github.com/AyushKhaitan1/CampusAtlas">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🤖 AI Mental Healthcare Chatbot
-
-An AI-powered conversational application designed to provide supportive interactions through a web interface.
-
-<p>
-  <a href="https://github.com/AyushKhaitan1/AI-Mental-healthcare-Chatbot">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### ⚡ The AI Signal
-
-Currently contributing to an AI-focused product where I work on modern web development and product engineering.
-
-<p>
-  <a href="https://github.com/AyushKhaitan1/The-Ai-Signal">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/AyushKhaitan1">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=AyushKhaitan1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" alt="Ayush's GitHub Stats"/>
+<a href="https://github.com/AyushKhaitan1/CampusAtlas">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
-<a href="https://github.com/AyushKhaitan1">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKhaitan1&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Ayush's Top Languages"/>
+---
+
+## 🤖 AI Mental Healthcare Chatbot
+
+An AI-powered conversational web application built to explore practical applications of AI in user-facing products.
+
+<p>
+<a href="https://github.com/AyushKhaitan1/AI-Mental-healthcare-Chatbot">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-</div>
+</p>
 
 ---
 
-## 🔥 Contribution Streak
+## ⚡ The AI Signal
+
+Currently contributing to an AI-focused product as part of my software engineering experience.
+
+<p>
+<a href="https://github.com/AyushKhaitan1/The-Ai-Signal">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushKhaitan1&theme=transparent&hide_border=true" alt="GitHub Contribution Streak"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AyushKhaitan1&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent" alt="GitHub Statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKhaitan1&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+# 🔥 Contribution Streak
 
 <div align="center">
 
-[![Ayush's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AyushKhaitan1\&theme=github-compact\&hide_border=true\&area=true)](https://github.com/AyushKhaitan1)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushKhaitan1&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushKhaitan1&theme=github-compact&hide_border=true&area=true" alt="GitHub Contribution Activity Graph"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -190,30 +186,36 @@ Currently contributing to an AI-focused product where I work on modern web devel
 
 ---
 
-## 📌 More Projects
+# 📚 Currently Learning
 
-<p align="center">
-
-<a href="https://github.com/AyushKhaitan1?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+```text
+DSA                 ███████████████░░░░░
+System Design       ████████████░░░░░░░░
+AI Agents           ██████████░░░░░░░░░░
+LLM Applications    ██████████░░░░░░░░░░
+Cloud & DevOps      ████████░░░░░░░░░░░░
+```
 
 ---
 
-## 🤝 Let's Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ayush-khaitan-/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ayushkhaitan2004@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 <a href="https://akfolio-new.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayush-khaitan-/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ayushkhaitan2004@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AyushKhaitan1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -222,6 +224,6 @@ Currently contributing to an AI-focused product where I work on modern web devel
 
 <div align="center">
 
-### 💡 Build. Learn. Ship. Repeat.
+### 💡 Build • Learn • Ship • Improve
 
 </div>
