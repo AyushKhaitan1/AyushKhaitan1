@@ -20,10 +20,6 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-<a href="https://github.com/AyushKhaitan1">
-<img src="https://img.shields.io/badge/GitHub-AyushKhaitan1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=AyushKhaitan1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
@@ -34,14 +30,11 @@
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech Computer Science Engineering student** focused on building practical, scalable web applications and AI-powered products.
+I'm a **Final Year Computer Science student** focused on building practical, scalable web applications and AI-powered products.
 
 - 🔭 Building and contributing to **full-stack and AI-powered applications**
-- 💻 Experienced with **React, Next.js, Node.js, TypeScript & REST APIs**
-- 🗄️ Working with **MongoDB, PostgreSQL, MySQL & Prisma**
 - 🤖 Exploring **AI Agents, LLM applications & AI-powered products**
-- 🧠 Strengthening **Data Structures & Algorithms and System Design**
-- 🚀 Interested in **Software Engineering, Full Stack Development, Backend Systems & AI**
+- 🚀 Interested in **Software Engineering, Full Stack Development & AI**
 - 🤝 Open to collaborating on **Full Stack, AI & Open Source projects**
 
 ---
@@ -51,7 +44,7 @@ I'm a **B.Tech Computer Science Engineering student** focused on building practi
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp" />
+<img src="https://skillicons.dev/icons?i=java,js,ts" />
 </p>
 
 ### Frontend
@@ -75,7 +68,7 @@ I'm a **B.Tech Computer Science Engineering student** focused on building practi
 ### Cloud, Tools & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vercel,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman" />
 </p>
 
 ---
@@ -131,20 +124,6 @@ I'm a **B.Tech Computer Science Engineering student** focused on building practi
 
 ---
 
-# 📈 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/AyushKhaitan1">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushKhaitan1&theme=github-compact&hide_border=true&area=true" alt="Ayush's GitHub Contribution Activity Graph"/>
-
-</a>
-
-</div>
-
----
-
 # 🌐 Find Me Online
 
 <div align="center">
@@ -167,7 +146,7 @@ I'm a **B.Tech Computer Science Engineering student** focused on building practi
 
 <div align="center">
 
-## 💭 Random Developer Motivation
+## 💭 Random Thought's
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Developer Quote"/>
 
